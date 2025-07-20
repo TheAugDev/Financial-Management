@@ -1,0 +1,7 @@
+body {
+  font-family: 'Inter', 'Segoe UI', 'Arial', sans-serif;
+  background-color: #f9fafb;
+  color: #222;
+}
+
+/* Add any custom styles here or use Tailwind via CDN in index.html */
